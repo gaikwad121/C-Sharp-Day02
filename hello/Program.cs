@@ -142,7 +142,7 @@ public class hell
             Console.WriteLine();
         }
     }
-    /* 06
+    /*/ 06
 A
 AB
 ABC
